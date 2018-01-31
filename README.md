@@ -9,3 +9,6 @@ The [research models](research) are a large collection of models implemented in 
 The [samples folder](samples) contains code snippets and smaller models that demonstrate features of TensorFlow, including code presented in various blog posts.
 
 The [tutorials folder](tutorials) is a collection of models described in the [TensorFlow tutorials](https://www.tensorflow.org/tutorials/).
+
+
+The [ Slides ](https://docs.google.com/presentation/d/e/2PACX-1vQ6DzxNTBrJo7K5P8t5_rBRGnyJoPUPBVOJR4ooHCwi4TlBFnIriFmI719rDNpcQzojqsV58aUqmBBx/pub?start=false&loop=false&delayms=3000&slide=id.g306175dd89_0_0)
